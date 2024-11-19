@@ -1,2 +1,4 @@
 PGN_zips/
 PGNs/
+.vscode/
+__pycache__/
