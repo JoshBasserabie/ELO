@@ -1,0 +1,5 @@
+Add comments
+change PGN_DEFAULT_END to 2000 or smth and just skip files that don't work
+Remove games that aren't FIDE rated or classical or find a different source of games
+    See PGN 1498 for titled tuesday games
+Delete Magnus code in elo_ratings.py after checking calculated ratings are correct
